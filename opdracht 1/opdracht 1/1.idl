@@ -1,0 +1,9 @@
+namespace opdracht1
+{
+    [default_interface]
+    runtimeclass _1 : Windows.UI.Xaml.Controls.Page
+    {
+        _1();
+        Int32 MyProperty;
+    }
+}
