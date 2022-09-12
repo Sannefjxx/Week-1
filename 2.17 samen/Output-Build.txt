@@ -1,0 +1,13 @@
+﻿Build started...
+1>------ Build started: Project: 2.17 samen, Configuration: Debug x64 ------
+1>2.19.cpp
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(1,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(23,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(26,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(29,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(33,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(36,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\2.17 samen\2.19.cpp(39,47): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+1>2.17 samen.vcxproj -> C:\Users\Gebruiker\OneDrive\Documenten\school\c++\week 1\2.17 samen\x64\Debug\2.17 samen.exe
+1>Done building project "2.17 samen.vcxproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
