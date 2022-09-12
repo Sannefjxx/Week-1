@@ -1,5 +1,5 @@
 #include <stdio.h>;
-
+#include <math.h>;
 
 int main(void) {
 	int u, a, t;
@@ -9,7 +9,7 @@ int main(void) {
 	printf("Enter variables u, a and t. \n");
 
 	scanf_s("%d%d%d", u, a, t);
-	A = &u+&a*&t;
+	A = &u + &a * &t;
 	B = &u*0, 5*(&a * &t ^ 2);
 	printf("The velocity v is \n", A);
 

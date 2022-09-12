@@ -15,13 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="2.17.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="2.19.cpp">
+    <ClCompile Include="try 1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
