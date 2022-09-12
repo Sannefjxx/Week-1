@@ -3,8 +3,8 @@
 int main(void) {
 	int t;
 
-	printf("number  square  cube\n");
-	
+	printf("number  square  cube");
+	scanf_s("tab");
 	printf("0         0        0\n");
 	
 	printf("1         1        1\n");
